@@ -5,6 +5,9 @@ public class ListNode<T> {
      T value;
      ListNode next;
 
+     public ListNode(){
+
+     }
     public ListNode(T value){
         this.value = value;
     }
@@ -32,7 +35,7 @@ public class ListNode<T> {
 stringBuffer.append(value).append(":");
         }
         ListNode nextNode = next;
-        while(nextNode !=null){
+        while(nextNode !=null && nextNode.value!=null){
             stringBuffer.append(nextNode.getValue()).append(":");
             nextNode = nextNode.next;
         }
