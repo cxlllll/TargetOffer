@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2f680c0-aba3-406a-92d6-0238b34da6e4" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/ListNodeWithSubList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tfl/chapter4/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tfl/chapter4/Question23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tfl/chapter4/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tfl/chapter4/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tfl/chapter4/Question21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tfl/chapter4/Question21.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713856600108</updated>
-      <workItem from="1713856601533" duration="46807000" />
+      <workItem from="1713856601533" duration="52588000" />
     </task>
     <servers />
   </component>
@@ -192,10 +187,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="191" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1714120982516" />
-    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1714113149700">
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1714187518942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1714113149700" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1714187518942" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
